@@ -16,14 +16,12 @@ c2=[]
 c3=[]
 c4=[]
 
-start=0
-
 print("Ticket in queue for bill payment: ",Bill)
 print("Ticket in queue for license renew: ",License)
 print("Tickets at counter: Counter 1:",c1," Counter 2:",c2," Counter 3:",c3," Counter 4:",c4,)
 print("")
 
-while start == 0:
+while True:
     option=(input("Enter your option: "))
     try:
         option = int(option)
