@@ -11,10 +11,10 @@ x=1000
 y=2000
 Bill=[]
 License=[]
-c1=[]
-c2=[]
-c3=[]
-c4=[]
+c1=["no ticket"]
+c2=["no ticket"]
+c3=["no ticket"]
+c4=["no ticket"]
 
 print("Ticket in queue for bill payment: ",Bill)
 print("Ticket in queue for license renew: ",License)
