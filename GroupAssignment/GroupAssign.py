@@ -1,4 +1,8 @@
 ItemStockDict={}
+try:
+    file=open("Stock.txt","x")
+except:
+    pass
 
 def PrintingOutTheList(Item,Stock):
     if len(Item) >= 16:
@@ -56,7 +60,7 @@ def rewriteStock():
 
 def CurrentStock():
     print("\nCurrent Items in Invetory")
-    print("Item\t\t||\tStock")
+    print("Item\t\t\t||\tStock")
     for i in ItemStockDict:
         ItemStockDict[i]=str(ItemStockDict[i])
         PrintingOutTheList(i,ItemStockDict[i])
@@ -83,7 +87,6 @@ What do you wish to do?
         continue
     if answer == 1:
         TurnintoDict()
-        print(ItemStockDict)
         while True:
             item=str(input("\nWhat item: ")).title()
             if item in ItemStockDict:
