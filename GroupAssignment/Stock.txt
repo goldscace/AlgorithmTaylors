@@ -1,0 +1,27 @@
+Pen			||	10
+A4 Paper		||	15
+Pencil			||	20
+Eraser			||	10
+Staplers		||	7
+Punch Machine		||	5
+Sticky Tapes		||	24
+Scissors		||	10
+Glue			||	15
+Calculator		||	20
+Tape Dispenser		||	9
+Desk Tidy		||	10
+Pen Cups		||	25
+Note Holders		||	30
+Paper Clip		||	15
+Waste buckets		||	20
+Ink Cartridges		||	20
+Toners			||	15
+Printing Papers		||	23
+Photocopy Papers	||	25
+Card Holders		||	24
+Files			||	30
+Folders			||	45
+Letter Holders		||	28
+Document Holders	||	24
+Paper Trays		||	20
+Envelope		||	36
