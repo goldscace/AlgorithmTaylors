@@ -1,4 +1,0 @@
-Pen		||	10
-Paper		||	15
-Pencil		||	20
-Eraser		||	10
